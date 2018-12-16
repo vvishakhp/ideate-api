@@ -1,0 +1,10 @@
+{
+    "v1": {
+        "test": {
+            "GET": {
+                "function": "RAW_JSON",
+                "value": "{\"message\":\"Hello World!!\"}"
+            }
+        }
+    }
+}
